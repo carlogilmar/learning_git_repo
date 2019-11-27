@@ -12,4 +12,7 @@ Hola a todos en el curso de Learning Git with Visual Thinking!!!!
 Modificando para la foto5!!
 
 
+
 Aqui el dev 2!!!
+- Aqui el dev 1 
+
